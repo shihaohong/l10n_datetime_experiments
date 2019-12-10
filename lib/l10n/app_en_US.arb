@@ -1,0 +1,12 @@
+{
+    "springBegins": "Spring begins on {springStartDate}",
+    "@springBegins": {
+        "description": "The first day of spring",
+        "placeholders": {
+            "springStartDate": {
+                "type": "DateTime",
+                "format": "yMMMMEEEEd"
+            }
+        }
+    }
+}
